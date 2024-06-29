@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256dW1wN2NpNjc1N2Q0ZHp4dWhocWV3ODQzeXZ3MHFkd3lnZnk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
-</div>
 
+ <img src="https://komarev.com/ghpvc/?username=ItsFLoweS&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord BAGE"/>
 
 <h1 align="center">Hi there, I'm <a href="[github.com](https://github.com/ItsFLoweS)" target="_blank">Matvey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
