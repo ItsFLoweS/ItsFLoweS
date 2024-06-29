@@ -3,4 +3,5 @@
 <h3 align="center">I'm starting to learn different programming languages</h3>
 
 
-![Static Badge](https://img.shields.io/badge/vk-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fderitd)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ItsFLoweS)](https://git.io/streak-stats)
