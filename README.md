@@ -17,10 +17,6 @@
 ---
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsFLoweS)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 **Profile Views:**  
 ![Profile views](https://komarev.com/ghpvc/?username=ItsFLoweS&style=for-the-badge&color=blueviolet)
@@ -138,10 +134,7 @@
 ---
 
 <div align="center">
-  <h3>Thanks for visiting my profile! </h3>
   <p>Happy Coding! 💻✨</p>
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vN9/giphy.gif" width="60" alt="coding">
 </div>
-
-<!-- Made with ❤️ by Matvey -->
