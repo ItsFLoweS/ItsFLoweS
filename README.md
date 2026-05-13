@@ -1,34 +1,147 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256dW1wN2NpNjc1N2Q0ZHp4dWhocWV3ODQzeXZ3MHFkd3lnZnk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
- <img src="https://komarev.com/ghpvc/?username=ItsFLoweS&style=flat-square&color=blue" alt=""/>
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord BAGE"/>
-
-<h1 align="center">Hi there, I'm <a href="[github.com](https://github.com/ItsFLoweS)" target="_blank">Matvey</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/ItsFLoweS" target="_blank">Matvey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm starting to learn different programming languages</h3>
 
+<h3 align="center">🚀 Aspiring Developer | 💻 Learning Programming | 🎮 Tech Enthusiast</h3>
 
+<p align="center">
+  <em>
+    Currently obsessed with coding, turning coffee into code ☕<br>
+    On a journey to master multiple programming languages 🔥
+  </em>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera GX" alt="Opera GX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows11" alt="windows11" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsFLoweS)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+**Profile Views:**  
+![Profile views](https://komarev.com/ghpvc/?username=ItsFLoweS&style=for-the-badge&color=blueviolet)
+
 </div>
 
 ---
 
-### 👀 My Stats :
+### 👨‍💻 About Me
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsFLoweS&theme=dark&background=000000)](https://git.io/streak-stats)
+- 🔭 I'm currently learning **multiple programming languages**
+- 🌱 I'm currently working on **improving my coding skills**
+- 💬 Ask me about **Python, Web Development, or Tech**
+-  **Goal:** Become a proficient software developer
+- ⚡ **Fun fact:** I love solving problems with code!
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsFLoweS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Languages and Tools
 
+<h3 align="center">💻 Technologies I'm Learning</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+        <br><sub>Python</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/>
+        <br><sub>PyCharm</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ"/>
+        <br><sub>IntelliJ</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+        <br><sub>Linux</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="50" height="50" alt="Windows"/>
+        <br><sub>Windows</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">🎨 Design & Other Tools</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="50" height="50" alt="Photoshop"/>
+        <br><sub>Photoshop</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" width="50" height="50" alt="Opera"/>
+        <br><sub>Opera GX</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ItsFLoweS&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFLoweS&theme=radical&hide_border=false&bg_color=0D1117" alt="GitHub Streak" height="180"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsFLoweS&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" alt="Top Languages" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsFLoweS&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📝 Latest Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsFLoweS&theme=react-dark&hide_border=false&bg_color=0D1117" alt="Activity Graph"/>
+</div>
+
+---
+
+### 💭 Quote of the Day
+
+<div align="center">
+  
+> *"The only way to do great work is to love what you do."* - Steve Jobs
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting my profile! </h3>
+  <p>Happy Coding! 💻✨</p>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vN9/giphy.gif" width="60" alt="coding">
+</div>
+
+<!-- Made with ❤️ by Matvey -->
